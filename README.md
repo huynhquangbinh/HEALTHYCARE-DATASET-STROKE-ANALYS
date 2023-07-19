@@ -9,8 +9,10 @@ In this task, we will use the Logistic Regression Algorithm to create a predicti
 
 1. Explore the data and preprocess the data.
 
-In this step, we will first explore the dataset to understand its structure, examine missing values, and get insights into the distribution of the features. Then, we will perform data preprocessing to handle any missing data, encode categorical variables, and select relevant features for model training.
+   In this step, we will first explore the dataset to understand its structure, examine missing values, and get insights into the distribution of the features. Then, we will perform data preprocessing to handle any missing 
+   data, encode categorical variables, and select relevant features for model training.
 
-2.The data preprocessing step is crucial as it ensures the data is in a suitable format for building the predictive model. This involves transforming and cleaning the data so that it can be used effectively in the machine learning algorithm.
+2. The data preprocessing step is crucial as it ensures the data is in a suitable format for building the predictive model. This involves transforming and cleaning the data so that it can be used effectively in the machine 
+learning algorithm.
 
-3.By the end of this step, we will have a well-prepared dataset ready for training the Logistic Regression model to predict whether a patient is likely to experience a stroke or not.
+3. By the end of this step, we will have a well-prepared dataset ready for training the Logistic Regression model to predict whether a patient is likely to experience a stroke or not.
